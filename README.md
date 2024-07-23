@@ -23,12 +23,12 @@ The project structure includes:
 
 - `data/`: Contains the dataset used for training and testing the model.
 - `model/emotion_model_builder.py`: Includes the source code of model builder.
-- `facedetection.py`: Includes the source code of detecting face emotion.
+- `face_detection.py`: Includes the source code of detecting face emotion.
 - `requirements.txt`: Lists all the dependencies required to run the project.
 
 ## Usage
 - Install all the libraries
-- Run facedetection.py in VS code
+- Run face_detection.py in VS code
 
 ## Why use CNN Model?
   
